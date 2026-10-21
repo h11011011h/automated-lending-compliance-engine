@@ -12,9 +12,9 @@ This engine replaces manual spreadsheet-based auditing with a scalable Python/SQ
 * **Credit Risk:** Monitors for high-risk borrower scores that deviate from established guardrails.
 
 ### 🛠️ Technical Stack
-* **Languages:** Python (Pandas)[cite: 9].
-* **Database:** SQL (SQLite)[cite: 9].
-* **Automation:** End-to-end report orchestration[cite: 16].
+* **Languages:** Python (Pandas).
+* **Database:** SQL (SQLite).
+* **Automation:** End-to-end report orchestration.
 
 ### ⚖️ Regulatory Alignment
 Aligned with **CFPB** standards for algorithmic monitoring and **Reg Z** reporting requirements.
