@@ -3,7 +3,7 @@ Automated Regulatory Reporting Engine: A Python-based "Compliance-as-Code" frame
 # Automated Lending Compliance & Risk Monitoring Engine
 
 ### 📊 Business Impact
-[cite_start]At Community Choice Financial, I built automation platforms that eliminated 1,000+ manual audit hours monthly[cite: 23]. This project open-sources the core "Compliance-as-Code" architecture used to monitor high-volume lending data.
+At Community Choice Financial, I built automation platforms that eliminated 1,000+ manual audit hours monthly[cite: 23]. This project open-sources the core "Compliance-as-Code" architecture used to monitor high-volume lending data.
 
 ### 💡 The Solution
 This engine replaces manual spreadsheet-based auditing with a scalable Python/SQL workflow. It automatically identifies:
